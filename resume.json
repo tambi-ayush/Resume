@@ -1,0 +1,79 @@
+{
+"basics": {
+  "name": "Ayush Kumar Gupta",
+  "label": "Student",
+  "picture": "https://media-exp1.licdn.com/dms/image/C4E03AQFHy8JG1gJfDg/profile-displayphoto-shrink_800_800/0/1610244856427?e=1632960000&v=beta&t=Ut4KtLB77LI_vCupHaflDBGRsF18vetd4zIVA9e_0uo",
+  "email": "2019kuec2018@iiitkota.ac.in",
+  "phone": "+918696953573",
+  "website": "https://www.youtube.com/c/AyushTambi/featured",
+  "summary": "I am Ayush ,student of Indian Institute of Information Technology,Kota(MNIT jaipur) persuing B.Tech in ECE. I am a Java Developer as well as Competitve Programmer.I am also coding Enthusiast.",
+  "location": {
+    "address": "Jaipur",
+    "postalCode": "302039",
+    "city": "Jaipur",
+    "countryCode": " India",
+    "region": "Rajasthan"
+    },
+  "profiles": [
+    {
+      "network": "Twitter",
+      "username": "TambiAyush",
+      "url": "https://twitter.com/TambiAyush"
+    },
+    {
+      "network": "Github",
+      "username": "tambi-ayush",
+      "url": "https://github.com/tambi-ayush"
+    },
+    {
+      "network": "linkedin",
+      "username": "AYUSH KUMAR GUPTA",
+      "url": "https://www.linkedin.com/in/ayush-kumar-gupta-4036911b9/"
+    },
+    {
+      "network": "Instagram",
+      "username": "ayush_tambi001",
+      "url": "https://www.instagram.com/ayush_tambi001/"
+    }
+  ]
+},
+
+"education": [
+  {
+  "institution": "Indian Institute of Information technology,kota",
+  "area": "Engineering",
+  "studyType": "B.Tech.",
+  "startDate": "2019-01-08",
+  "endDate": "2023-11-07",
+  "gpa": "8.74",
+   "courses": [
+    "Electronics & Communication Engineering"
+    ]
+  }
+],
+
+
+"skills": [
+  {
+  "level": "Beginner",
+  "keywords": [  "HTML",  "CSS",  "Javascript",  "React",  "MySQL",  "Git",  "C/C++",  "Python" , "Java" , "AWT & Swing" ,"NodeJS" ]
+  }
+],
+
+"Projects":[
+    {
+        "Title":"Who Wants To Be Millionaire Game",
+        "Ttechnology used":["Java","Awt","Swing","MySQL"],
+        "Description":"This Project was made by Java and Mysql.User has to play Game In different fields like sports ,history etc. UI was designed in JAVA AWT &* swing and questions were managed by MySQL database"
+    }
+],
+
+"interests": [
+  {
+  "name": "Sports",
+  "keywords": ["Cricket"]
+  }
+],
+"references": []
+}
+
